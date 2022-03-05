@@ -5,6 +5,8 @@ As a developer who writes about tech, I want a CMS-style blog site so that I can
 
 This CMS-style blog site requires users to sign-up and/or sign-in to the site in order to view, create, comment, and delete posts. 
 
+It is deployed to Heroku and can be found at: https://peaceful-spire-06772.herokuapp.com/
+
 ## How it looks
 ![ScreenShot](insertlink)
 
